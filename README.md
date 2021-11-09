@@ -8,14 +8,6 @@ explosive dust effect for views
 
 ## Getting started
 
-In your `build.gradle`:
-
-```gradle
- dependencies {
-   compile 'tyrantgit:explosionfield:1.0.1'
- }
-```
-
 ```java
 ExplosionField explosionField = ...;
 explosionField.explode(view);
